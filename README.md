@@ -1,4 +1,3 @@
-# MovieNOW-FrontEnd-Project
 # 🎬 MovieNOW - Movie Discovery Web App
 
 A modern, responsive web application for discovering movies with detailed information, similar movie suggestions, and streaming platform availability.
