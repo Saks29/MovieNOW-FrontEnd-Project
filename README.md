@@ -44,9 +44,10 @@ A modern, responsive web application for discovering movies with detailed inform
 ## 🚀 Demo
 
 ### Screenshots
-![MovieNOW Homepage](https://via.placeholder.com/800x600?text=MovieNOW+Homepage)
-![Movie Details](https://via.placeholder.com/800x600?text=Movie+Details+Page)
-![Similar Movies](https://via.placeholder.com/800x600?text=Similar+Movies+Section)
+![MovieNOW Homepage](<img width="906" height="784" alt="Screenshot 2025-07-18 004433" src="https://github.com/user-attachments/assets/fb787b26-7e4f-44ac-a91f-1193297f61be" />)
+![Movie Details](<img width="841" height="762" alt="Screenshot 2025-07-18 004457" src="https://github.com/user-attachments/assets/0566593e-4fc7-4566-aec9-8284afc3c0c7" />)
+![Similar Movies](<img width="889" height="647" alt="Screenshot 2025-07-18 004506" src="https://github.com/user-attachments/assets/be451554-8cd6-4eaa-9cef-65ee025f6446" />
+)
 
 ### Live Demo
 [View Live Demo](https://your-username.github.io/MovieNOW) *(Replace with your actual GitHub Pages URL)*
