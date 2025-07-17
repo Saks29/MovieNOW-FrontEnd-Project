@@ -232,9 +232,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [Saks29](https://github.com/Saks29)
+- LinkedIn: [Saksham Patwal](https://www.linkedin.com/in/sakpat/)
+- Email: Sakshampatwal2004@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -245,10 +245,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/MovieNOW)
-![GitHub forks](https://img.shields.io/github/forks/your-username/MovieNOW)
-![GitHub issues](https://img.shields.io/github/issues/your-username/MovieNOW)
-![GitHub license](https://img.shields.io/github/license/your-username/MovieNOW)
+![GitHub stars](https://img.shields.io/github/stars/Saks29/MovieNOW-FrontEnd-Project)
+![GitHub forks](https://img.shields.io/github/forks/Saks29/MovieNOW-FrontEnd-Project)
+![GitHub issues](https://img.shields.io/github/issues/Saks29/MovieNOW-FrontEnd-Project)
+![GitHub license](https://img.shields.io/github/license/Saks29/MovieNOW-FrontEnd-Project)
 
 ---
 
