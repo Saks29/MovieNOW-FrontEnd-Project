@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="MovieNOW - Discover movies with detailed information, similar suggestions, and streaming availability">
+    <meta name="keywords" content="movies, film, cinema, search, discover, streaming">
+    <meta name="author" content="Your Name">
+    <title>MovieNOW - Discover Movies</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <header class="header">
+            <div class="logo">🎬 MovieNOW</div>
+            <div class="tagline">Discover your next favorite movie</div>
+        </header>
+
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-container">
+                <input type="text" class="search-input" id="movieSearch" placeholder="Enter movie name..." autocomplete="off">
+                <button class="search-btn" onclick="searchMovie()">Search</button>
+            </div>
+            <div id="loading" class="loading hidden">🔍 Searching for movies...</div>
+            <div id="error" class="error hidden"></div>
+        </section>
+
+        <!-- Trending Section -->
+        <section class="trending-section">
+            <h2 class="section-title">🔥 Trending Searches</h2>
+            <div class="trending-grid" id="trendingMovies">
+                <div class="trending-item" onclick="quickSearch('Oppenheimer')">Oppenheimer</div>
+                <div class="trending-item" onclick="quickSearch('Barbie')">Barbie</div>
+                <div class="trending-item" onclick="quickSearch('Dune')">Dune</div>
+                <div class="trending-item" onclick="quickSearch('The Batman')">The Batman</div>
+                <div class="trending-item" onclick="quickSearch('Top Gun Maverick')">Top Gun: Maverick</div>
+                <div class="trending-item" onclick="quickSearch('Avatar')">Avatar</div>
+            </div>
+        </section>
+
+        <!-- Movie Details Section -->
+        <section id="movieDetails" class="movie-details hidden">
+            <!-- Movie details will be populated here by JavaScript -->
+        </section>
+
+        <!-- Similar Movies Section -->
+        <section id="similarMovies" class="similar-movies hidden">
+            <h2 class="section-title">🎭 Similar Movies</h2>
+            <div class="movies-grid" id="similarGrid">
+                <!-- Similar movies will be populated here by JavaScript -->
+            </div>
+        </section>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 MovieNOW. Made with ❤️ for movie lovers.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
